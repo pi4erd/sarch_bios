@@ -1,0 +1,16 @@
+{
+    "sections": [
+        {
+            "name": "text",
+            "alignment": 256
+        },
+        {
+            "name": "interrupts",
+            "alignment": 256
+        },
+        {
+            "name": "rodata",
+            "alignment": 256
+        }
+    ]
+}
